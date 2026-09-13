@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rezept-Vorage.md",
+                "file": "00_Vorlage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rezept-Vorage"
+              "title": "00_Vorlage"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rezept-Vorage.md",
+                "file": "00_Vorlage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rezept-Vorage.md",
+                "file": "00_Vorlage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rezept-Vorage.md",
+                "file": "00_Vorlage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,13 +185,31 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false
+      "bases:Neue Base erstellen": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "769d7c5acd255d81",
   "lastOpenFiles": [
-    "README.md",
     "Rezept-Vorage.md",
+    "00_Vorlage.md",
+    "Vegetarisch/04_French_Onion_Soup.md",
+    "Vegetarisch/03_Shakshuka_mit_Feta.md",
+    "Vegetarisch/02_Ofenkartoffel_Kraeuterquark.md",
+    "Vegetarisch/01_Tomaten_Burrata_Pasta.md",
+    "Vegan/04_Veganes_Pilzrisotto.md",
+    "Vegan/03_Knuspriger_Sesam_Tofu.md",
+    "Vegan/02_Ofengemuese_Hummus_Bowl.md",
+    "Vegan/01_Kichererbsen_Kokos_Curry.md",
+    "Normal/04_Lachs_Zitronenbutter_Spinat.md",
+    "Normal/03_Steak_Rosmarinkartoffeln.md",
+    "Normal/02_Spaghetti_Bolognese_Upgrade.md",
+    "Normal/01_Haehnchen_Gemuese_Pfanne.md",
+    "Low_Carb/04_Gefuellte_Paprika_ueberbacken.md",
+    "Low_Carb/03_Haehnchen_Blumenkohlrisotto.md",
+    "Low_Carb/02_Gemuese_Omelett.md",
+    "Low_Carb/01_Zoodles_Hackfleisch_Sauce.md",
+    "README.md",
     "Low_Carb",
     "Normal",
     "Vegetarisch",

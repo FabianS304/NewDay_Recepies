@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Low_Carb/01_Zoodles_Hackfleisch_Sauce.md",
+                "file": "Extravagant/03_3-2-1_Rippchen_Ofen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Zoodles_Hackfleisch_Sauce"
+              "title": "03_3-2-1_Rippchen_Ofen"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Low_Carb/01_Zoodles_Hackfleisch_Sauce.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Low_Carb/01_Zoodles_Hackfleisch_Sauce.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Low_Carb/01_Zoodles_Hackfleisch_Sauce.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,7 +191,10 @@
   },
   "active": "769d7c5acd255d81",
   "lastOpenFiles": [
+    "Extravagant/02_Beef_Wellington.md",
+    "Extravagant/01_Filet_Mignon_Rotweinjus.md",
     "README.md",
+    "Low_Carb/01_Zoodles_Hackfleisch_Sauce.md",
     "LICENSE",
     "00_Vorlage.md",
     "Rezept-Vorage.md",
@@ -210,7 +213,6 @@
     "Low_Carb/04_Gefuellte_Paprika_ueberbacken.md",
     "Low_Carb/03_Haehnchen_Blumenkohlrisotto.md",
     "Low_Carb/02_Gemuese_Omelett.md",
-    "Low_Carb/01_Zoodles_Hackfleisch_Sauce.md",
     "Low_Carb",
     "Normal",
     "Vegetarisch",

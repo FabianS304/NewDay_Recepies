@@ -34,14 +34,6 @@ portionen: 2
 
 Die Frontmatter-Felder sind bewusst simpel gehalten, damit sie sich später auch strukturiert auswerten lassen (z. B. Filtern nach Zeit oder Ernährungsform).
 
-## Struktur
-
-```
-recipes/
-├── carbonara.md
-├── risotto.md
-└── ...
-```
 
 ## Nutzung / eigenes Setup
 
